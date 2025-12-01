@@ -9,6 +9,10 @@ p:first-letter{
   margin-left: 25px;
 }
 
+br{
+  text-align: justify; /* should be this if im not stupid? */
+}
+
 h1, h2{
   font-variant: small-caps;
 }
