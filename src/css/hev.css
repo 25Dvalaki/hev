@@ -1,5 +1,6 @@
 body{
   background-repeat: repeat-y;
+  background-image: url("/src/img/sin.png");
   background-position: left;
   padding: 10px 40px 10px 110px;
 }
@@ -10,7 +11,7 @@ p:first-letter{
 }
 
 br{
-  text-align: justify; /* should be this if im not stupid? */
+  text-align: justify; /* should be this if im not stupid? + isnt this the 6th thing?*/
 }
 
 h1, h2{
